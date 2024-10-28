@@ -25,14 +25,21 @@ A po restartu pc se Vám zobrazila tato chyba:
 
 ## Oprava:
 
-   -     Použijeme live usb, například [EndeavourOS](https://endeavouros.com/).
-   -     Najdi v prohlížeči souboru, v root AlmaLinux složku etc a v ní soubor **fstab – etc/fstab**
-   -     Ve složce etc otevři terminál – klikem pravím tlačítek a otevřít v terminálu.
-   -     Do terminálu vlož: **sudo nano fstab**
-   -     Zakomentuj řádek pomocí # nebo smaž kde jsi přidal nový ssd disk
-   -     Vlož do terminálu: **sudo umount /mnt/root**
-   -     Restartuj systém: **reboot**
-   -     A nezapomeň vytáhnout usb z pc.
+Použijeme live usb, například [EndeavourOS](https://endeavouros.com/).
+
+ Najdi v prohlížeči souboru, v root AlmaLinux složku etc a v ní soubor **fstab – etc/fstab**
+
+Ve složce etc otevři terminál – klikem pravím tlačítek a otevřít v terminálu.
+
+Do terminálu vlož: **sudo nano fstab**
+
+Zakomentuj řádek pomocí # nebo smaž kde jsi přidal nový ssd disk
+
+Vlož do terminálu: **sudo umount /mnt/root**
+
+Restartuj systém: **reboot**
+
+A nezapomeň vytáhnout usb z pc.
 
 Nyní by Váš systém měl najet.
 
