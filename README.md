@@ -7,3 +7,5 @@ S Linuxem jsem se poprvé seznámil v roce 2002 a až na pauzu 2 roky kolem 2020
 ![](./img/tucnak-se-zbrani-v-rukou-ve-stylu-comix.jpg)
 
 Více se o mě dozvíš v mém [profilu](https://codeberg.org/Kankys)
+
+Linux je na celý život
